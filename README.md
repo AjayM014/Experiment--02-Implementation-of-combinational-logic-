@@ -30,9 +30,11 @@ RegisterNumber:  23013424
 ![image](https://github.com/AjayM014/Experiment--02-Implementation-of-combinational-logic-/assets/150011759/b59f3401-0a84-416f-9a97-c6d02861b993)
 
 ## Output:
-![image](https://github.com/AjayM014/Experiment--02-Implementation-of-combinational-logic-/assets/150011759/cfbdebd8-562e-444b-bc68-5dc4aa548a3f)
 
 ## RTL
 ## Timing Diagram
+
+![image](https://github.com/AjayM014/Experiment--02-Implementation-of-combinational-logic-/assets/150011759/4be23300-1869-464a-8610-20e20d9ffad0)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
